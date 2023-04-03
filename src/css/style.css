@@ -299,6 +299,9 @@ button {
     grid-template-columns: 150px auto 15%;
   }
 }
+s {
+  text-decoration:line-through
+}
 
 footer {
   font-size: var(--small-font);
